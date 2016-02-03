@@ -4,9 +4,7 @@ using namespace std;
 
 void main()
 {
-	
-  cout << "bbb\n";
-
+  cout << "ho\n";
 	int n = 0;
 }
 
