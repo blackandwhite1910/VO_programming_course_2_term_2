@@ -5,7 +5,7 @@ using namespace std;
 void main()
 {
 	
-  cout << "ho\n";
+  cout << "ho2sds\n";
 
 	int n = 0;
 }
