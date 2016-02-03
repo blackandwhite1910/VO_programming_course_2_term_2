@@ -4,6 +4,6 @@ using namespace std;
 
 void main()
 {
-  cout << "d\n";
+  cout << "ho\n";
 	int n = 0;
 }
