@@ -4,6 +4,8 @@ using namespace std;
 
 void main()
 {
-  cout << "nm\n";
+	
+  cout << "ho\n";
+
 	int n = 0;
 }
