@@ -5,7 +5,7 @@ using namespace std;
 void main()
 {
 	
-  cout << "aaaa\n";
+  cout << "bbb\n";
 
 	int n = 0;
 }
