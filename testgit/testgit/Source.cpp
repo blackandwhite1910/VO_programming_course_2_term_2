@@ -6,8 +6,9 @@ void main()
 {
 
   cout << "ho2sds2\n";
-  cout << "aacaabb\n";
-  cout << "ho3\n";
+  cout << "aaaabb\n";
+  cout << "ho4\n";
+
 	int n = 0;
 }
 
